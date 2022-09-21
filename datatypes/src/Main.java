@@ -38,8 +38,7 @@ public class Main {
 
         float num3 = 5.55f;
 
-        System.out.println(num3+num2);
-
+        System.out.println(num3 + num2);
 
 
     }

@@ -7,12 +7,12 @@ public class Main {
         int number = 28;
         int total = 0;
 
-        for (int i=1; i<number; i++) {
+        for (int i = 1; i < number; i++) {
             if (number % i == 0) {
                 total += i;
             }
         }
-        if (total == number){
+        if (total == number) {
             System.out.println(number + " bir mükemmel sayıdır");
         } else {
             System.out.println(number + " mükemmel  sayı değildir");

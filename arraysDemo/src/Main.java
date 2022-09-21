@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         String student1 = "Vedat";
-        String student2= "Emre";
-        String student3= "Okan";
-        String student4= "Enes";
+        String student2 = "Emre";
+        String student3 = "Okan";
+        String student4 = "Enes";
 
         System.out.println(student1);
         System.out.println(student2);
@@ -24,7 +24,7 @@ public class Main {
 
         System.out.println("*--------------------------*");
 
-        for (String student:students){
+        for (String student : students) {
             System.out.println(student);
         }
 

@@ -4,17 +4,17 @@ public class Main {
         char letter = 'O';
         boolean isWovel = false;
 
-        char[] wovels = {'A','a','E','e','I','ı','İ','i','O','o','Ö','ö','U','u','Ü','ü'};
+        char[] wovels = {'A', 'a', 'E', 'e', 'I', 'ı', 'İ', 'i', 'O', 'o', 'Ö', 'ö', 'U', 'u', 'Ü', 'ü'};
 
-        for (char wovel: wovels){
+        for (char wovel : wovels) {
             if (letter == wovel) {
                 isWovel = true;
                 break;
             }
         }
-        if (isWovel){
+        if (isWovel) {
             System.out.println(letter + " sesli harfdir");
-        }else {
+        } else {
             System.out.println(letter + " sessiz harfdir");
         }
     }

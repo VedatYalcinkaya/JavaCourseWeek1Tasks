@@ -24,13 +24,13 @@ public class Main {
             }
         }
 
-        if (totalForNum1 == num2){
-            if (totalForNum2 == num1){
-                System.out.println(num1 + " ve " + num2 + " Sayıları, Arkadaş Sayılardır." );
-            }else {
+        if (totalForNum1 == num2) {
+            if (totalForNum2 == num1) {
+                System.out.println(num1 + " ve " + num2 + " Sayıları, Arkadaş Sayılardır.");
+            } else {
                 System.out.println(num1 + " ve " + num2 + " Sayıları, Arkadaş Sayı Değildir.");
             }
-        }else {
+        } else {
             System.out.println(num1 + " ve " + num2 + " Sayıları, Arkadaş Sayı Değildir.");
         }
     }

@@ -5,7 +5,7 @@ public class Main {
         double max = myList[0];
 
         for (double number : myList) {
-            if (max<number) {
+            if (max < number) {
                 max = number;
             }
             total += number;
