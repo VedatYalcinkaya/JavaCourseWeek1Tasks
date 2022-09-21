@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Kodun amacı harfin sesli veya sessiz olduğunu bulmaktır.
-        char letter = 'O';
+        char letter = 'e';
         boolean isWovel = false;
 
         char[] wovels = {'A', 'a', 'E', 'e', 'I', 'ı', 'İ', 'i', 'O', 'o', 'Ö', 'ö', 'U', 'u', 'Ü', 'ü'};

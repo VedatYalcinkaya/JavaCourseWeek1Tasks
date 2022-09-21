@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourseWeek1Task1.iml" filepath="$PROJECT_DIR$/.idea/JavaCourseWeek1Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourseWeek1Tasks.iml" filepath="$PROJECT_DIR$/.idea/JavaCourseWeek1Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/arraysDemo/arraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/datatypes/datatypes.iml" />
